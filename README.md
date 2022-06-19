@@ -8,8 +8,7 @@
 - 💬 Pronouns: she/her
  
 ## GitHub Analytics:
-![Ana's stats](https://github-readme-stats.vercel.app/api?username=anagadelha&show_icons=true&theme=dracula)
-[![Ana's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anagadelha&layout=compact)](https://github.com/anagadelha/github-readme-stats)
+![Ana's stats](https://github-readme-stats.vercel.app/api?username=anagadelha&show_icons=true&theme=dracula) [![Ana's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anagadelha&layout=compact)](https://github.com/anagadelha/github-readme-stats)
 
 ## Contact me on:
 
