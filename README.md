@@ -5,10 +5,11 @@
 - 📜 I'm getting my second degree in Information Systems at Instituto Federal de Minas Gerais (IFMG). My first major is Journalism.
 - 🎓 Student ambassador at [Digital Innovation One](https://www.dio.me/).
 - 🏓Fun fact: my typing speed is 68 wpm with a 97% accuracy (a gift from my old journalist self). 
-- 💬 Pronouns: she/her
+- 💬 Pronouns: she/her.
  
 ## GitHub Analytics:
-![Ana's stats](https://github-readme-stats.vercel.app/api?username=anagadelha&show_icons=true&theme=dracula) [![Ana's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anagadelha&layout=compact)](https://github.com/anagadelha/github-readme-stats)
+![Ana's stats](https://github-readme-stats.vercel.app/api?username=anagadelha&show_icons=true&theme=dracula) 
+[![Ana's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anagadelha&layout=compact&theme=dracula)](https://github.com/anagadelha/github-readme-stats)
 
 ## Contact me on:
 
